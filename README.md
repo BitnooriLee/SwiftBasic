@@ -1,2 +1,4 @@
 # SwiftBasic
-develop iOS Applications with iflearn lecture  
+develop iOS Applications with iflearn lecture
+from August 2018
+  
